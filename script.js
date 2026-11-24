@@ -1,0 +1,1 @@
+let c = 0; function buy() { c++; document.getElementById('cartCount').textContent = c; }

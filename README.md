@@ -1,0 +1,1 @@
+# E-Commerce Product Website - Team 1\n\nDisplay products with search, category filters, product details and a basic cart.\n\n## Preview\nOpen `index.html` in any modern web browser.\n
